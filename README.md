@@ -21,6 +21,7 @@ Rename only code can be uncommented in main()
 Very basic version
 
 Todo:
+====
 1. De-hardcode the target media dirs
 2. De-hardcode swapping between rename a dir and copy everything from a card
 3. Add a GUI. This is sketched out using PAGES. This will most probably be the method to solve 1 & 2!
